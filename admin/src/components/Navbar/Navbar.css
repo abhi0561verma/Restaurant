@@ -1,0 +1,21 @@
+.navbar {
+  /* position: fixed; */
+  top: 0; /* Stick to the top */
+  left: 0;
+  width: 100%; /* Full width of the viewport */
+  background-color: white; /* Adjust background color as needed */
+  z-index: 1000; /* Ensure it's above other content */
+  margin-top: 0px;
+  padding: 0px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for better visibility */
+}
+
+.navbar .logo {
+  width: 80px;
+}
+.navbar .profile {
+  width: 40px;
+}
