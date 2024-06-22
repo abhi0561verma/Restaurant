@@ -1,6 +1,6 @@
 # Food Delivery App - Restaurant
 
-Welcome to the Restaurant Food Delivery App! This project is a MERN application for a food delivery service, where users can browse and select multiple foods from various categories, add them to the cart, and proceed to checkout. The app is built using React and Vite, ensuring a fast and efficient development experience. Check out the live demo [here] https://tomato-food-del-website.vercel.app/
+Welcome to the Restaurant Food Delivery App! This project is a MERN application for a food delivery service, where users can browse and select multiple foods from various categories, add them to the cart, and proceed to checkout. The app is built using React and Vite, ensuring a fast and efficient development experience. Check out the live demo [here] https://food-del-frontend-p52z.onrender.com/
 
 ## Features
 
